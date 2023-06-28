@@ -22,6 +22,7 @@
     "url": "https://herteleo.de"
   },
   "publishConfig": {
+    "access": "public",
     "provenance": true
   },
   "type": "module",
